@@ -1,0 +1,3 @@
+2025-05-11 10:30:16.765 INFO 1234 --- [main] com.example.webhook.service.StartupService : Successfully received webhook URL and access token!
+2025-05-11 10:30:17.235 INFO 1234 --- [main] com.example.webhook.service.StartupService : Solving SQL problem and sending the solution...
+2025-05-11 10:30:18.453 INFO 1234 --- [main] com.example.webhook.service.StartupService : Solution sent successfully to webhook!
